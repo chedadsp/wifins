@@ -7,3 +7,4 @@
 |   |   | jedanjetoster  |
 | Naš restoran | Naš restoran | nasrestoran021 |
 | Feniks | Feniks NS | madam021 |
+| Pastis | PASTIS | pastis100 |
